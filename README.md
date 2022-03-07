@@ -1,3 +1,7 @@
+# Points of Interest
+* Replacing it with the current implementation of PointNet++. a better performance on the data by using Multiview frames is expected.
+* functions in script such as compute multiview projection can be utilized for our own needs.
+
 # Pointnet2.ScanNet
 PointNet++ Semantic Segmentation on ScanNet in PyTorch with CUDA acceleration based on the original [PointNet++ repo](https://github.com/charlesq34/pointnet2) and [the PyTorch implementation with CUDA](https://github.com/sshaoshuai/Pointnet2.PyTorch)
 
